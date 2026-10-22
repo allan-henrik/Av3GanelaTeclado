@@ -35,7 +35,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "q";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnQ.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -46,7 +46,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "w";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnW.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -57,7 +57,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "e";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnE.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -68,7 +68,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "r";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnR.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -79,7 +79,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "t";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnT.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -90,7 +90,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "y";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnY.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -101,7 +101,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "u";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnU.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -112,7 +112,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "i";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnI.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -123,7 +123,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "o";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnO.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -134,7 +134,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "p";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnP.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -145,7 +145,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "a";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnA.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -156,7 +156,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "s";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnS.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -167,7 +167,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "d";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnD.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -178,7 +178,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "f";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnF.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -189,7 +189,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "g";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnG.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -200,7 +200,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "h";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnH.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -211,7 +211,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "j";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnJ.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -222,7 +222,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "k";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnK.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -233,7 +233,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "l";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnL.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -244,7 +244,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "z";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnZ.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -255,7 +255,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "x";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnX.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -266,7 +266,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "c";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnC.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -277,7 +277,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "v";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnV.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -288,7 +288,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "b";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnB.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -299,7 +299,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "n";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnN.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -310,7 +310,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "m";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnM.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -321,7 +321,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "0";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btn0.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -332,7 +332,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "1";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btn1.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -343,7 +343,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "2";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btn2.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -354,7 +354,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "3";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btn3.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -365,7 +365,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "4";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btn4.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -376,7 +376,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "5";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btn5.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -387,7 +387,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "6";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btn6.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -398,7 +398,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "7";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btn7.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -409,7 +409,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "8";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btn8.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -420,7 +420,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "9";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btn9.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -431,7 +431,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "~";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnCinalTiu.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -442,7 +442,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "´";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnAcento.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -453,7 +453,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "+";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnCinalMais.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -464,7 +464,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "-";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnCinalMenos.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -475,7 +475,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "/";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnCinalDiagonalDireita.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -486,7 +486,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "]";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnCochetesDireita.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -497,7 +497,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "[";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnCochetesEsquerda.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -508,7 +508,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += ":";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnDoisPontos.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -519,7 +519,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += "?";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnInterogação.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -530,7 +530,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += ".";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnPonto.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
@@ -541,7 +541,7 @@ public class GanelaAv3 extends javax.swing.JFrame {
                     String txt = txtArea.getText();
                     txt += ",";
                     txtArea.setText(txt);
-                    Timer timer = new Timer(1000, (ActionEvent evt) -> {
+                    Timer timer = new Timer(250, (ActionEvent evt) -> {
                         btnVirgula.setBackground(corOriginal);
                     });
                     timer.setRepeats(false);
